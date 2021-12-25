@@ -1,0 +1,1 @@
+alias clearall="echo -e '\ec\e[3J'"
